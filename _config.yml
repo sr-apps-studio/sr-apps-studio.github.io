@@ -1,0 +1,8 @@
+include:
+  - "app-ads.txt"
+
+defaults:
+  - scope:
+      path: "app-ads.txt"
+    values:
+      layout: null
